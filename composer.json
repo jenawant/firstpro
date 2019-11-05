@@ -1,0 +1,6 @@
+{
+    "name": "jenawant/firstpro",
+    "require": {
+        "php": ">=5.6"
+    }
+}
